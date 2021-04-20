@@ -14,7 +14,7 @@
 
 - Sócio Fundador da <a href="http://fourtime.com">Fourtime Tecnologia </a>
 - CTO da <a href="http://www.onthego.com.br">Onthego Chatbots para Pesquisas</a>
-- Sócio Fundador da <a href="http://www.fluo.com.br">Fingermidia Tecnologia </a>
+- Sócio Fundador da Fingermidia Tecnologia - Desenvolvimento do aplicativo <a href="http://www.fluo.com.br">Fluo</a>
 
 ## Acadêmico 
 
