@@ -20,7 +20,7 @@ PALAVRAS </a><br/>
 
 ## Acadêmico 
 
-- Professor no Curso de ADS e SI da Faculdade <a href="http://www.cotemig.com.br" target="_blank">Cotemig</a>
+- Professor no Curso de ADS e SI da Faculdade <a href="http://www.cotemig.com.br" target="_blank">Cotemig</a>. As aulas desse semestre de Ambientes Móveis estão sendo documentadas no <a href="https://github.com/Cotemig-Ambientes-Moveis-2021-01">Git</a>. 
 - Coordenador do Curso de Desenvolvimento Mobile do Cotemig. <a href="https://www.cotemig.com.br/ensino/pos-graduacao/curso/pos-graduacao-em-desenvolvimento-full-stack-mobile" target="_blank">Veja Mais Sobre o Curso</a>
 
 ## Projetos Abertos
