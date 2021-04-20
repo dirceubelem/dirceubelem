@@ -14,3 +14,9 @@
 
 - Professor no Curso de ADS e SI da Faculdade <a href="http://www.cotemig.com.br" target="_blank">Cotemig</a>
 - Coordenador do Curso de Desenvolvimento Mobile do Cotemig. <a href="https://www.cotemig.com.br/ensino/pos-graduacao/curso/pos-graduacao-em-desenvolvimento-full-stack-mobile" target="_blank">Veja Mais Sobre o Curso</a>
+
+## Empresas
+
+- Sócio Fundador da <a href="fourtime.com">Fourtime Tecnologia </a>
+- CTO da <a href="www.onthego.com.br">Onthego Chatbots para Pesquisas</a>
+- Sócio Fundador da <a href="fingermidia.com">Fingermidia Tecnologia </a>
