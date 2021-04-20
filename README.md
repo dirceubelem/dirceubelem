@@ -10,13 +10,17 @@
 
 - Content Filtering for SMS Systems Based on Bayesian Classifier and Grouping Words - http://www.lanoms.org/2011 – IEEE – Publicado e Apresentado<br/>
 
+## Negócios
+
+- Sócio Fundador da <a href="http://fourtime.com">Fourtime Tecnologia </a>
+- CTO da <a href="http://www.onthego.com.br">Onthego Chatbots para Pesquisas</a>
+- Sócio Fundador da <a href="http://www.fluo.com.br">Fingermidia Tecnologia </a>
+
 ## Acadêmico 
 
 - Professor no Curso de ADS e SI da Faculdade <a href="http://www.cotemig.com.br" target="_blank">Cotemig</a>
 - Coordenador do Curso de Desenvolvimento Mobile do Cotemig. <a href="https://www.cotemig.com.br/ensino/pos-graduacao/curso/pos-graduacao-em-desenvolvimento-full-stack-mobile" target="_blank">Veja Mais Sobre o Curso</a>
 
-## Empresas
+## Projetos Abertos
 
-- Sócio Fundador da <a href="http://fourtime.com">Fourtime Tecnologia </a>
-- CTO da <a href="http://www.onthego.com.br">Onthego Chatbots para Pesquisas</a>
-- Sócio Fundador da <a href="http://www.fluo.com.br">Fingermidia Tecnologia </a>
+- Gráficos de Linha Android <a href="https://github.com/fingermidia/GraphLine">GraphLine</a>
