@@ -1,7 +1,9 @@
 
 # Formação Acadêmica
 
-- Mestre em Ciência da Computação, Sistemas Distribuídos e Computação Móvel / PUC-MG (2009);<br/>
+- Mestre em Ciência da Computação, Sistemas Distribuídos e Computação Móvel / PUC-MG (2009); Dissertação: <a href="http://www.biblioteca.pucminas.br/teses/Informatica_BelemDO_1.pdf">FILTRO DE CONTEÚDO PARA SISTEMAS SMS BASEADO
+EM CLASSIFICADOR BAYESIANO E AGRUPAMENTO POR
+PALAVRAS </a><br/>
 - Bacharel em Ciência da Computação / PUC-MG (2002).
 
 ## Artigos Publicados e Apresentados
