@@ -27,3 +27,11 @@ PALAVRAS </a><br/>
 
 - Gráficos de Linha Android <a href="https://github.com/fingermidia/GraphLine">GraphLine</a>
 - BO DAO e TO aberto <a href="https://github.com/dirceubelem/bodaoto">BO DAO e TO</a>
+
+### 📊 Estatísticas no GitHub
+
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirceubelem&show_icons=true&theme=dracula)
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirceubelem&layout=compact)
